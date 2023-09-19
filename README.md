@@ -20,7 +20,7 @@ Beta Festival
 - [Getting Started](#getting-started)
 - -[Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Types of Responses](#types of responses)
+- [Types of Responses](#types-of-responses)
 
 
 ## About
