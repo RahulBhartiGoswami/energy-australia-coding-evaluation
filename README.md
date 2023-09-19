@@ -21,6 +21,7 @@ Beta Festival
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Types of Responses](#types-of-responses)
+- [Sample output] (#sample-output)
 
 
 ## About
@@ -44,4 +45,49 @@ you may expect 3 different types of responses
 2) You may receive an empty response in case the API "https://eacp.energyaustralia.com.au/codingtest/api/v1/festivals" sends empty response.
 3) You may get Too many request exception in case the application receives "Too many request error" from the API "https://eacp.energyaustralia.com.au/codingtest/api/v1/festivals"
   
-  
+  ## Sample Output
+  Winter Primates
+ LOL-palooza
+ACR
+ Critter Girls
+ null
+ Manish Ditch
+ Trainerella
+Anti Records
+ YOUKRANE
+ Trainerella
+Fourth Woman Records
+ Jill Black
+ LOL-palooza
+ The Black Dashes
+ Small Night In
+MEDIOCRE Music
+ Yanke East
+ Small Night In
+Marner Sis. Recording
+ Auditones
+ Twisted Tour
+ Green Mild Cold Capsicum
+ Small Night In
+ Wild Antelope
+ Small Night In
+Monocracy Records
+ Adrian Venti
+ Trainerella
+Outerscope
+ Squint-281
+ Small Night In
+ Summon
+ Twisted Tour
+Pacific Records
+ Frank Jupiter
+ LOL-palooza
+ Propeller
+ null
+Still Bottom Records
+ Wild Antelope
+ Trainerella
+XS Recordings
+ Werewolf Weekday
+ LOL-palooza
+
