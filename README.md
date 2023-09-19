@@ -33,7 +33,7 @@ This project is used to provide solution to the problem above in the Problem sec
 - SpringBoot 3.1.3
 
 ## Installation
-clone the git repositoyry by using the below command 
+clone the git repository by using the command 
 git clone https://github.com/RahulBhartiGoswami/energy-australia-coding-evaluation.git
 or download this repository and extract the ZIP file in your local machine. Import it in your favourite IDE and run Application class as a main(Java) method.
 Go to any Rest Client if your choice and hit the REST URL http://localhost:8080/ea/api/v1/festivals with the HTTP GET method.
