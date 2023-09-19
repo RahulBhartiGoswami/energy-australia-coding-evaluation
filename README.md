@@ -18,7 +18,7 @@ Beta Festival
 
 - [About](#about)
 - [Getting Started](#getting-started)
-- -[Prerequisites](#prerequisites)
+- [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Types of Responses](#types-of-responses)
 
